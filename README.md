@@ -5,8 +5,6 @@ This project is a real-time, terminal-based banking system created for the Softw
 The system is designed with PIN authentication, real-time updates, modular Java classes, and robust error handling to simulate a simplified but realistic banking experience.
 (Based on our official project documentation) 
 
-Project Report
-
 🎮 How to Run
 
 The program runs by executing BankManagementSystem.java in any Java text editor or IDE.
@@ -55,8 +53,6 @@ Includes type, amount, and timestamp
 
 Screenshots in the report show multiple entries displayed clearly (page 15–16) 
 
-Project Report
-
 🔐 Security Features
 
 PIN-based authentication
@@ -64,8 +60,6 @@ PIN-based authentication
 Account lockout after 4 incorrect login attempts
 
 As shown in the report’s terminal screenshots (page 14) 
-
-Project Report
 
 Incorrect card or recipient validation
 
@@ -106,8 +100,6 @@ Transaction.java
 Stores transaction type, amount, date/time
 
 
-Project Report
-
 🧪 Testing Highlights
 
 Unit Testing
@@ -139,8 +131,6 @@ User Testing
 Ensured simple interface and smooth experience
 
 
-Project Report
-
 🏆 Results
 
 All core features successfully implemented
@@ -154,8 +144,6 @@ Clear feedback messages for all user actions
 Tested with multiple users with consistent performance
 
 
-Project Report
-
 📚 Lessons Learned
 
 Proper planning (use-case diagrams) saves time
@@ -168,8 +156,6 @@ Testing every feature prevents issues later
 
 Modular design makes future upgrades easy
 
-
-Project Report
 
 👥 Team
 
